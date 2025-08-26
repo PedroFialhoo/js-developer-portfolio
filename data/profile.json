@@ -29,17 +29,17 @@
   "portfolio": [
     {
       "name": "UaiFood",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/PedroFialhoo/UaiFood",
       "github": true
     },
     {
       "name": "Event",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/PedroFialhoo/Event",
       "github": true
     },
     {
       "name": "AimZombie",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/PedroFialhoo/AimZombie",
       "github": true
     }
   ],
