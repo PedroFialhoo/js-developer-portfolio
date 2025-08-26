@@ -1,15 +1,15 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Pedro H Bittencourt Fialho",
+  "photo": "https://avatars.githubusercontent.com/u/198839162?s=400&u=2b7ab53219e84f3e0a8f76c2931913a120eb3c3e&v=4",
+  "job": "Student",
+  "location": "Cruzeiro - SP",
+  "phone": "(12) 99255-3402",
+  "email": "pedrofialho000@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "Java",
